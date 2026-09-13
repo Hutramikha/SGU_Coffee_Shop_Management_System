@@ -1,4 +1,4 @@
-# ☕ Hệ Thống Quản Lý Quán Cà Phê (Coffee Shop Management System)
+# Hệ Thống Quản Lý Quán Cà Phê (Coffee Shop Management System)
 
 <p align="center">
   <img src="src/IMAGE/logochinh.png" alt="Logo Cà Phê Xanh" width="120" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 Giới Thiệu Dự Án
+## Giới Thiệu Dự Án
 
 Dự án **Cà Phê Xanh - Hệ Thống Quản Lý Quán Cà Phê** được nghiên cứu và phát triển nhằm giải quyết các bài toán vận hành thực tế tại các chuỗi hoặc quán cà phê quy mô vừa và nhỏ. Trọng tâm của hệ thống là:
 
@@ -29,7 +29,7 @@ Dự án **Cà Phê Xanh - Hệ Thống Quản Lý Quán Cà Phê** được ngh
 
 ---
 
-## 🏛 Kiến Trúc Hệ Thống (System Architecture)
+## Kiến Trúc Hệ Thống (System Architecture)
 
 Dự án áp dụng chặt chẽ mô hình kiến trúc đa tầng (**Multi-Tier / 3-Tier Architecture**), đảm bảo tính module hóa, dễ bảo trì và mở rộng:
 
@@ -63,7 +63,7 @@ Dự án áp dụng chặt chẽ mô hình kiến trúc đa tầng (**Multi-Tier
 
 ---
 
-## ✨ Các Phân Hệ Chức Năng (Modules)
+## Các Phân Hệ Chức Năng (Modules)
 
 ### 1. Phân hệ Điểm Bán Hàng (POS - Point of Sale)
 * **Giao diện bán hàng trực quan:** Xem danh sách món ăn/thức uống kèm hình ảnh, tìm kiếm nhanh và lọc theo danh mục.
@@ -110,7 +110,7 @@ Dự án áp dụng chặt chẽ mô hình kiến trúc đa tầng (**Multi-Tier
 
 ---
 
-## 🛠 Công Nghệ & Thư Viện Sử Dụng
+## Công Nghệ & Thư Viện Sử Dụng
 
 | Hạng mục | Công nghệ / Thư viện | Mô tả vai trò |
 | :--- | :--- | :--- |
@@ -125,7 +125,7 @@ Dự án áp dụng chặt chẽ mô hình kiến trúc đa tầng (**Multi-Tier
 
 ---
 
-## 📂 Cấu Trúc Thư Mục Dự Án
+## Cấu Trúc Thư Mục Dự Án
 
 ```plaintext
 SGU_Enterprise_Information_Systems/
@@ -152,7 +152,7 @@ SGU_Enterprise_Information_Systems/
 
 ---
 
-## 🗄️ Cấu Trúc Cơ Sở Dữ Liệu (Database Schema)
+## Cấu Trúc Cơ Sở Dữ Liệu (Database Schema)
 
 Hệ thống bao gồm **18 bảng dữ liệu quan hệ** được thiết kế chuẩn hóa:
 
@@ -177,7 +177,7 @@ Hệ thống bao gồm **18 bảng dữ liệu quan hệ** được thiết kế
 
 ---
 
-## ⚙️ Hướng Dẫn Cài Đặt & Chạy Ứng Dụng
+## Hướng Dẫn Cài Đặt & Chạy Ứng Dụng
 
 ### 1. Yêu cầu môi trường
 * **Hệ điều hành:** Windows 10 hoặc Windows 11.
@@ -216,7 +216,7 @@ Dự án đã tích hợp sẵn script tự động biên dịch và chạy bằ
 
 ---
 
-## 📈 Hướng Phát Triển Mở Rộng
+## Hướng Phát Triển Mở Rộng
 
 - **Nâng cấp nền tảng đa thiết bị:** Chuyển đổi kiến trúc Backend sang RESTful API (Spring Boot) và phát triển giao diện Web (React/Vue.js) & App điện thoại (Flutter).
 - **Cơ sở dữ liệu Cloud:** Triển khai CSDL lên nền tảng đám mây (AWS RDS hoặc Azure SQL) phục vụ quản lý chuỗi nhiều chi nhánh.
